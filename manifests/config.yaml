@@ -3,3 +3,4 @@ hub:
     Authenticator:
       allowed_users:
         - harsh
+        - harshit
